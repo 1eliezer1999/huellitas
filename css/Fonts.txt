@@ -1,0 +1,5 @@
+Fonts used in this design:
+
+Font: Acme
+Author: Juan Pablo del Peral,Huerta Tipográfica
+Url: https://fonts.google.com/specimen/Acme
